@@ -39,3 +39,5 @@ print(np.array([y_pred, y_test]))
 new_data = np.array([1, 40000000, 32000000, 50000000])
 y_profit = linear_reg.predict(new_data)
 y_profit
+
+print('This is a child branch')
